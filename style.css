@@ -1,0 +1,17 @@
+.navbar-brand img{
+    height: 80px;
+}
+.nav-linkL{
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: lightseagreen !important;
+    border-top: black solid 1px;
+}
+.navbar-nav a {
+    transition: all 0.5s ease !important;
+}
+.navbar-nav a:hover{
+    background: burlywood;
+    padding: 10px;
+}
